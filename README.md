@@ -2,7 +2,7 @@
 
 A single-file Pomodoro timer for your terminal, written in C99. No runtime dependencies, no bloat — just a big block-digit clock, a progress bar, and a chime when time is up.
 
-![Screenshot](image/ss.jpg)
+![Screenshot](image/ss.png)
 
 ## Features
 
