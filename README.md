@@ -2,28 +2,7 @@
 
 A single-file Pomodoro timer for your terminal, written in C99. No runtime dependencies, no bloat — just a big block-digit clock, a progress bar, and a chime when time is up.
 
-```
-╭────────────────────────────────────────────────────────────────╮
-│                            POMODORO                            │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│                          FOCUS / WORK                          │
-│                                                                │
-│                                   ████  ████      ████  ████                                   │
-│                             █  █     ██  █     █  █                          │
-│                                 ████  ████      ████  █  █                                 │
-│                          █        █  ██     █  █  █                          │
-│                                   ████  ████      ████  ████                                   │
-│                                                                │
-│                                                       [██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  35%                                                        │
-│         Elapsed 08:45   Remaining 16:15   Total 25:00          │
-│                    Round ● ○ ○ ○  1/4   Sessions 0                     │
-│                                                                │
-├────────────────────────────────────────────────────────────────┤
-│  Sound  sounds/bell.wav (pw-play)                              │
-│  Space pause  n next  r reset  t sound  m mute  q quit         │
-╰────────────────────────────────────────────────────────────────╯
-```
+![Screenshot](image/ss.jpg)
 
 ## Features
 
